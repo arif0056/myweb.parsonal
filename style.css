@@ -20,6 +20,8 @@ body{font-family: 'Source Sans Pro', sans-serif;
     border-radius: 5px;
     color: white;
     font-weight: bold;
-
-
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
 }
